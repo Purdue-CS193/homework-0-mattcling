@@ -24,6 +24,13 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+# Matthew's first cs193 homework
+
+## favoraite things of cs193
+-its only 1 credit hour
+-its student lead
+-its got minimal homwork 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
